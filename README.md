@@ -18,9 +18,10 @@
   <img src="https://skillicons.dev/icons?i=angular" height="38" alt="angularjs logo"  />
   <img width="19" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="38" alt="tensorflow logo"  />
-  <img src="[https://skillicons.dev/icons?i=tensorflow](https://raw.githubusercontent.com/iwokonl/iwokonl/10b39321ce5da0f4f974349c89d9ab8eacdc974a/Notion.svg)" height="38" alt="tensorflow logo"  />
+  <img width="19" />
+  <img src="https://raw.githubusercontent.com/iwokonl/iwokonl/10b39321ce5da0f4f974349c89d9ab8eacdc974a/Notion.svg" height="38" alt="tensorflow logo"  />
 </div>
-https://raw.githubusercontent.com/iwokonl/iwokonl/10b39321ce5da0f4f974349c89d9ab8eacdc974a/Notion.svg
+
 ###
 
 <br clear="both">
