@@ -18,16 +18,13 @@
   <img src="https://skillicons.dev/icons?i=angular" height="38" alt="angularjs logo"  />
   <img width="19" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="38" alt="tensorflow logo"  />
-  <img width="19" />
-  <img src="https://raw.githubusercontent.com/iwokonl/iwokonl/10b39321ce5da0f4f974349c89d9ab8eacdc974a/Notion.svg" height="38" alt="tensorflow logo"  />
 </div>
 
 ###
 
 <br clear="both">
-[![Alt text](https://github.com/iwokonl/iwokonl/blob/main/pngwing.com.png)](https://www.google.com/search?client=opera-gx&q=Notion+logo&sourceid=opera&ie=UTF-8&oe=UTF-8#vhid=0xJ9xjfA-4RjkM&vssid=l)
+
 
 <img src="https://raw.githubusercontent.com/iwokonl/iwokonl/output/snake.svg" alt="Snake animation" />
 
 ###
-[url=https://logovectordl.com/notion-labs-inc-logo-vector-svg/][img]https://logovectordl.com/wp-content/uploads/2019/11/notion-labs-inc-logo-vector.png[/img][/url]
