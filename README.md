@@ -27,4 +27,4 @@
 <img src="https://raw.githubusercontent.com/iwokonl/iwokonl/output/snake.svg" alt="Snake animation" />
 
 ###
-  <img src="[https://skillicons.dev/icons?i=tensorflow](https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg)" height="38" alt="Notion notatki"  />
+<a href="https://logovectordl.com/notion-labs-inc-logo-vector-svg/" target="_blank"><img src="https://logovectordl.com/wp-content/uploads/2019/11/notion-labs-inc-logo-vector.png" /></a>
