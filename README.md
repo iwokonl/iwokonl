@@ -28,3 +28,6 @@
 <img src="https://raw.githubusercontent.com/iwokonl/iwokonl/output/snake.svg" alt="Snake animation" />
 
 ###
+<div>
+  <img src="https://skillicons.dev/icons?i=tensorflow">
+</div>
